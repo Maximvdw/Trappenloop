@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Trappenloop_beneden">
+</Property><Property Name="Solution File" Value="D:\Data\Maxim\My Documents\Dropbox\Trappenloop_beneden\Trappenloop_beneden.sln">
+</Property><Property Name="User Options File" Value="D:\Data\Maxim\My Documents\Dropbox\Trappenloop_beneden\Trappenloop_beneden.suo">
+</Property><Property Name="Date" Value="zondag 15 april 2012">
+</Property><Property Name="Time" Value="11:50">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Trappenloop_beneden.sln" Description="File successfully backed up as D:\Data\Maxim\My Documents\Dropbox\Trappenloop_beneden\Backup1\Trappenloop_beneden.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Trappenloop_beneden.suo" Description="File successfully backed up as D:\Data\Maxim\My Documents\Dropbox\Trappenloop_beneden\Backup1\Trappenloop_beneden.suo">
+</Event><Event ErrorLevel="0" Project="Trappenloop_beneden" Source="Trappenloop_beneden\Trappenloop_beneden.vbproj" Description="Project file successfully backed up as D:\Data\Maxim\My Documents\Dropbox\Trappenloop_beneden\Backup1\Trappenloop_beneden\Trappenloop_beneden.vbproj">
+</Event><Event ErrorLevel="0" Project="Trappenloop_beneden" Source="Trappenloop_beneden\EventArgs.vb" Description="File successfully backed up as D:\Data\Maxim\My Documents\Dropbox\Trappenloop_beneden\Backup1\Trappenloop_beneden\EventArgs.vb">
+</Event><Event ErrorLevel="0" Project="Trappenloop_beneden" Source="Trappenloop_beneden\Form1.vb" Description="File successfully backed up as D:\Data\Maxim\My Documents\Dropbox\Trappenloop_beneden\Backup1\Trappenloop_beneden\Form1.vb">
+</Event><Event ErrorLevel="0" Project="Trappenloop_beneden" Source="Trappenloop_beneden\Form1.Designer.vb" Description="File successfully backed up as D:\Data\Maxim\My Documents\Dropbox\Trappenloop_beneden\Backup1\Trappenloop_beneden\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Trappenloop_beneden" Source="Trappenloop_beneden\INI.vb" Description="File successfully backed up as D:\Data\Maxim\My Documents\Dropbox\Trappenloop_beneden\Backup1\Trappenloop_beneden\INI.vb">
+</Event><Event ErrorLevel="0" Project="Trappenloop_beneden" Source="Trappenloop_beneden\LoginDialog.Designer.vb" Description="File successfully backed up as D:\Data\Maxim\My Documents\Dropbox\Trappenloop_beneden\Backup1\Trappenloop_beneden\LoginDialog.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Trappenloop_beneden" Source="Trappenloop_beneden\LoginDialog.vb" Description="File successfully backed up as D:\Data\Maxim\My Documents\Dropbox\Trappenloop_beneden\Backup1\Trappenloop_beneden\LoginDialog.vb">
+</Event><Event ErrorLevel="0" Project="Trappenloop_beneden" Source="Trappenloop_beneden\LoginDialogForm.designer.vb" Description="File successfully backed up as D:\Data\Maxim\My Documents\Dropbox\Trappenloop_beneden\Backup1\Trappenloop_beneden\LoginDialogForm.designer.vb">
+</Event><Event ErrorLevel="0" Project="Trappenloop_beneden" Source="Trappenloop_beneden\LoginDialogForm.vb" Description="File successfully backed up as D:\Data\Maxim\My Documents\Dropbox\Trappenloop_beneden\Backup1\Trappenloop_beneden\LoginDialogForm.vb">
+</Event><Event ErrorLevel="0" Project="Trappenloop_beneden" Source="Trappenloop_beneden\manual_data.Designer.vb" Description="File successfully backed up as D:\Data\Maxim\My Documents\Dropbox\Trappenloop_beneden\Backup1\Trappenloop_beneden\manual_data.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Trappenloop_beneden" Source="Trappenloop_beneden\manual_data.vb" Description="File successfully backed up as D:\Data\Maxim\My Documents\Dropbox\Trappenloop_beneden\Backup1\Trappenloop_beneden\manual_data.vb">
+</Event><Event ErrorLevel="0" Project="Trappenloop_beneden" Source="Trappenloop_beneden\My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\Data\Maxim\My Documents\Dropbox\Trappenloop_beneden\Backup1\Trappenloop_beneden\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Trappenloop_beneden" Source="Trappenloop_beneden\My Project\Application.Designer.vb" Description="File successfully backed up as D:\Data\Maxim\My Documents\Dropbox\Trappenloop_beneden\Backup1\Trappenloop_beneden\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Trappenloop_beneden" Source="Trappenloop_beneden\My Project\Resources.Designer.vb" Description="File successfully backed up as D:\Data\Maxim\My Documents\Dropbox\Trappenloop_beneden\Backup1\Trappenloop_beneden\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Trappenloop_beneden" Source="Trappenloop_beneden\My Project\Settings.Designer.vb" Description="File successfully backed up as D:\Data\Maxim\My Documents\Dropbox\Trappenloop_beneden\Backup1\Trappenloop_beneden\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Trappenloop_beneden" Source="Trappenloop_beneden\tcpConnection.vb" Description="File successfully backed up as D:\Data\Maxim\My Documents\Dropbox\Trappenloop_beneden\Backup1\Trappenloop_beneden\tcpConnection.vb">
+</Event><Event ErrorLevel="0" Project="Trappenloop_beneden" Source="Trappenloop_beneden\My Project\Application.myapp" Description="File successfully backed up as D:\Data\Maxim\My Documents\Dropbox\Trappenloop_beneden\Backup1\Trappenloop_beneden\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Trappenloop_beneden" Source="Trappenloop_beneden\My Project\Settings.settings" Description="File successfully backed up as D:\Data\Maxim\My Documents\Dropbox\Trappenloop_beneden\Backup1\Trappenloop_beneden\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Trappenloop_beneden" Source="Trappenloop_beneden\Form1.resx" Description="File successfully backed up as D:\Data\Maxim\My Documents\Dropbox\Trappenloop_beneden\Backup1\Trappenloop_beneden\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Trappenloop_beneden" Source="Trappenloop_beneden\LoginDialogForm.resx" Description="File successfully backed up as D:\Data\Maxim\My Documents\Dropbox\Trappenloop_beneden\Backup1\Trappenloop_beneden\LoginDialogForm.resx">
+</Event><Event ErrorLevel="0" Project="Trappenloop_beneden" Source="Trappenloop_beneden\manual_data.resx" Description="File successfully backed up as D:\Data\Maxim\My Documents\Dropbox\Trappenloop_beneden\Backup1\Trappenloop_beneden\manual_data.resx">
+</Event><Event ErrorLevel="0" Project="Trappenloop_beneden" Source="Trappenloop_beneden\My Project\Resources.resx" Description="File successfully backed up as D:\Data\Maxim\My Documents\Dropbox\Trappenloop_beneden\Backup1\Trappenloop_beneden\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Trappenloop_beneden" Source="Trappenloop_beneden\Trappenloop_beneden.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Trappenloop_beneden" Source="Trappenloop_beneden\Trappenloop_beneden.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Trappenloop_beneden.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Trappenloop_beneden.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Trappenloop_beneden" Source="Trappenloop_beneden\Trappenloop_beneden.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

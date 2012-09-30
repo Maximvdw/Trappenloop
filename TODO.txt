@@ -1,0 +1,6 @@
+1) Wanneer een bepaalde renner de tijd overtreft, dan moet de vorige gedelete worden
+2) Auto aanvullen bij xx karakters hetzelfde (Achternaam enkel)
+3) Webcam wat beter testen
+4) Snellere CPU voor TRappenloop pc boven (Laggt bij webcam image)
+5) Communicatie systeem naar boven (Microfoon beneden en boven)
+6) Groter lettertype (zit redelijk ver van beeld)

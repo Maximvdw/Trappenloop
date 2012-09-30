@@ -1,0 +1,64 @@
+BENODIGDHEDEN:
+-2x Voedingskabel
+-3x VGA Kabel
+-4x Tolsombandjes
+-2x 512MB DDR RAm
+-1x 256MB Video Kaart
+-3x LCD Scherm
+-2x Tafel
+-1x Stoel
+-2x Toetsenbord
+-2x Muis
+-Verlengsnoeren
+
+
+VOORAF:
+-Nieuwe 256MB Video kaart voor PC boven installeren
+-Bij pc boven en beneden 512MB Ram bijplaatsen
+-Kijken voor betere cpu (Of overclocken een beetje)
+
+
+BENEDEN:
+-Voedingskabel beneden
+-2 LCD Schermen voor beneden
+-2 VGA Kabels Voor beneden (Schermen)
+-1 Converter voor dat witte vga stekker naar de blauwe (Blauw voor scherm wit voor gpu)
+-Bank die 2 zitplaatsen groot is voor beneden
+-Verlengsnoer(en) voor naar midden speelplaats
+-Verdeelstekker voor beneden
+-Lange Ethernet kabel voor beneden naar dichtsbijzijnde switch
+-1xToetsenbord en 1x Muis voor beneden
+-Stoel voor beneden
+-PC Trappenloop Beneden plaatsen
+-2x Tolsombandjes
+MAXIM:-ID Scanner plaatsen
+
+
+BOVEN:
+-Voedingskabel boven
+-1 LCD Scherm voor boven
+-1 VGA Kabel voor boven (Scherm)
+-Bank met een dunne rand (STABIEL)
+-Verlengsnoer voor boven (kort)
+-Verdeelstekker voor boven
+-Korte Ethernet kabel voor boven bij switch
+-TIJDELIJK 1xToetsenbord en 1x Muis
+-2x Tolsombandjes
+MAXIM:-Webcams plaatsen
+MAXIM:-Knop plaatsen
+MAXIM:-PC Plaatsen boven
+
+
+ACHTERAF:
+-Teamviewer Crack plaatsen (anders komt er trial schermpje op)
+-HWMonitor bij pc beneden (Monitor pc boven)
+-Teamviewer openen voor pc boven en beneden
+-WebcamXP plaatsen boven en starten
+-WebcamXP open op webpagina beneden
+-Trappenloop boven starten
+-Trappenloop Beneden starten
+-Vooraf testen (minstens 5 keer op verschillende situaties)
+-IP Addres vragen aan Mnr. Mertens
+-Draden verbergen
+-.. en dan wachten op hoop van zege xD
+

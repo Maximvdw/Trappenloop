@@ -1,0 +1,107 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Trappenloop_beneden
+</name>
+</assembly>
+<members>
+<member name="E:Trappenloop_beneden.LoginDialog.QuerySearchForUser">
+	<summary>
+ Occurs when user clicks the search for user button.
+ </summary>
+</member><member name="E:Trappenloop_beneden.LoginDialog.QueryPreviouslyUsedUsernames">
+	<summary>
+ Occurs when login dialog diaplays so you can supply a list of previously used login names.
+ </summary>
+</member><member name="E:Trappenloop_beneden.LoginDialog.QueryInitialCredentials">
+	<summary>
+ Occurs when login displays so you can supply previously used credentials.
+ </summary>
+</member><member name="E:Trappenloop_beneden.LoginDialog.SaveCredentials">
+	<summary>
+ Occurs when user clicks the OK button and the SavePassword checkbox is checked so the credentials can be saved.
+ </summary>
+</member><member name="M:Trappenloop_beneden.LoginDialog.ShowDialog(System.Windows.Forms.IWin32Window)">
+	<summary>
+ Shows the dialog.
+ </summary>
+	<param name="owner">The owner.</param>
+	<returns>DialogResult</returns>
+</member><member name="P:Trappenloop_beneden.LoginDialog.Title">
+	<summary>
+ Gets or sets the title.
+ </summary>
+	<value>
+ The title.
+ </value>
+</member><member name="P:Trappenloop_beneden.LoginDialog.Description">
+	<summary>
+ Gets or sets the description.
+ </summary>
+	<value>
+ The description.
+ </value>
+</member><member name="P:Trappenloop_beneden.LoginDialog.ApplicationName">
+	<summary>
+ Gets or sets the name of the application.
+ </summary>
+	<value>
+ The name of the application.
+ </value>
+</member><member name="P:Trappenloop_beneden.LoginDialog.ShowRememberCheckbox">
+	<summary>
+ Indicates whether show remember checkbox is displayed.
+ </summary>
+	<value>
+		<c>true</c> if show remember checkbox is displayed; otherwise, <c>false</c>.
+ </value>
+</member><member name="P:Trappenloop_beneden.LoginDialog.RememberCheckboxChecked">
+	<summary>
+ Indicates whether the show remember checkbox is checked.
+ </summary>
+	<value>
+		<c>true</c> if show remember checkbox is checked; otherwise, <c>false</c>.    ''' 
+ </value>
+</member><member name="P:Trappenloop_beneden.LoginDialog.CustomBitmap">
+	<summary>
+ Gets or sets the custom bitmap.
+ </summary>
+	<value>
+ The custom bitmap.
+ </value>
+</member><member name="P:Trappenloop_beneden.LoginDialog.EnableSearchForUser">
+	<summary>
+ Indicates whether the search for user button is enabled.
+ </summary>
+	<value>
+		<c>true</c> to enable search for user; otherwise, <c>false</c>.
+ </value>
+</member><member name="P:Trappenloop_beneden.LoginDialog.Username">
+	<summary>
+ Gets the username.
+ </summary>
+</member><member name="P:Trappenloop_beneden.LoginDialog.Password">
+	<summary>
+ Gets the password.
+ </summary>
+</member><member name="T:Trappenloop_beneden.LoginDialog">
+	<summary>
+ Login dialog to mimic windows login dialog
+ </summary>
+</member><member name="P:Trappenloop_beneden.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Trappenloop_beneden.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Trappenloop_beneden.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

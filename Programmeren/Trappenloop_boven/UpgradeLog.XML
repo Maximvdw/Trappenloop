@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Trappenloop_boven">
+</Property><Property Name="Solution File" Value="D:\data\Maxim\Mijn Documenten\Dropbox\Trappenloop_boven\Trappenloop_boven.sln">
+</Property><Property Name="User Options File" Value="D:\data\Maxim\Mijn Documenten\Dropbox\Trappenloop_boven\Trappenloop_boven.suo">
+</Property><Property Name="Date" Value="donderdag 5 april 2012">
+</Property><Property Name="Time" Value="20:19">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Trappenloop_boven.sln" Description="File successfully backed up as D:\data\Maxim\Mijn Documenten\Dropbox\Trappenloop_boven\Backup\Trappenloop_boven.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Trappenloop_boven.suo" Description="File successfully backed up as D:\data\Maxim\Mijn Documenten\Dropbox\Trappenloop_boven\Backup\Trappenloop_boven.suo">
+</Event><Event ErrorLevel="0" Project="Trappenloop_boven" Source="Trappenloop_boven\Trappenloop_boven.vbproj" Description="Project file successfully backed up as D:\data\Maxim\Mijn Documenten\Dropbox\Trappenloop_boven\Backup\Trappenloop_boven\Trappenloop_boven.vbproj">
+</Event><Event ErrorLevel="0" Project="Trappenloop_boven" Source="Trappenloop_boven\clsListener.vb" Description="File successfully backed up as D:\data\Maxim\Mijn Documenten\Dropbox\Trappenloop_boven\Backup\Trappenloop_boven\clsListener.vb">
+</Event><Event ErrorLevel="0" Project="Trappenloop_boven" Source="Trappenloop_boven\Form1.vb" Description="File successfully backed up as D:\data\Maxim\Mijn Documenten\Dropbox\Trappenloop_boven\Backup\Trappenloop_boven\Form1.vb">
+</Event><Event ErrorLevel="0" Project="Trappenloop_boven" Source="Trappenloop_boven\Form1.Designer.vb" Description="File successfully backed up as D:\data\Maxim\Mijn Documenten\Dropbox\Trappenloop_boven\Backup\Trappenloop_boven\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Trappenloop_boven" Source="Trappenloop_boven\INI.vb" Description="File successfully backed up as D:\data\Maxim\Mijn Documenten\Dropbox\Trappenloop_boven\Backup\Trappenloop_boven\INI.vb">
+</Event><Event ErrorLevel="0" Project="Trappenloop_boven" Source="Trappenloop_boven\My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\data\Maxim\Mijn Documenten\Dropbox\Trappenloop_boven\Backup\Trappenloop_boven\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Trappenloop_boven" Source="Trappenloop_boven\My Project\Application.Designer.vb" Description="File successfully backed up as D:\data\Maxim\Mijn Documenten\Dropbox\Trappenloop_boven\Backup\Trappenloop_boven\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Trappenloop_boven" Source="Trappenloop_boven\My Project\Resources.Designer.vb" Description="File successfully backed up as D:\data\Maxim\Mijn Documenten\Dropbox\Trappenloop_boven\Backup\Trappenloop_boven\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Trappenloop_boven" Source="Trappenloop_boven\My Project\Settings.Designer.vb" Description="File successfully backed up as D:\data\Maxim\Mijn Documenten\Dropbox\Trappenloop_boven\Backup\Trappenloop_boven\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Trappenloop_boven" Source="Trappenloop_boven\tcpConnection.vb" Description="File successfully backed up as D:\data\Maxim\Mijn Documenten\Dropbox\Trappenloop_boven\Backup\Trappenloop_boven\tcpConnection.vb">
+</Event><Event ErrorLevel="0" Project="Trappenloop_boven" Source="Trappenloop_boven\My Project\Application.myapp" Description="File successfully backed up as D:\data\Maxim\Mijn Documenten\Dropbox\Trappenloop_boven\Backup\Trappenloop_boven\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Trappenloop_boven" Source="Trappenloop_boven\My Project\Settings.settings" Description="File successfully backed up as D:\data\Maxim\Mijn Documenten\Dropbox\Trappenloop_boven\Backup\Trappenloop_boven\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Trappenloop_boven" Source="Trappenloop_boven\Form1.resx" Description="File successfully backed up as D:\data\Maxim\Mijn Documenten\Dropbox\Trappenloop_boven\Backup\Trappenloop_boven\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Trappenloop_boven" Source="Trappenloop_boven\My Project\Resources.resx" Description="File successfully backed up as D:\data\Maxim\Mijn Documenten\Dropbox\Trappenloop_boven\Backup\Trappenloop_boven\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Trappenloop_boven" Source="Trappenloop_boven\Trappenloop_boven.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Trappenloop_boven" Source="Trappenloop_boven\Trappenloop_boven.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Trappenloop_boven.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Trappenloop_boven.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Trappenloop_boven" Source="Trappenloop_boven\Trappenloop_boven.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

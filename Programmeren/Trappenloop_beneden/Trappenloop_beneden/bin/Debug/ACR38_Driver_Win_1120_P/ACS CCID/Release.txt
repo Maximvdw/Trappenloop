@@ -1,0 +1,54 @@
+Release Notes for ACR38 (CCID) Smart Card Reader Driver
+=======================================================
+
+----------------------------------------------
+Update: 1.1.6.5 (RW)	 Date: 27-January-2010
+----------------------------------------------
+
+Description:
+- ACR38 (CCID) driver package for win98/ME, 2000, XP, 2003/2008, Vista and Windows 7 (x86 & x64).
+
+Changes:
+- WHQL certified drivers signed by Microsoft for:
+  * 2000
+  * Windows XP (x86 & x64)
+  * Windows Vista (x86 & x64)
+  * Windows 7 (x86 & x64)
+  * Windows Server 2003 (x86 & x64)
+  * Windows Server 2008 (x86 & x64)
+  * Windows Server 2008 R2 (x64)
+
+----------------------------------------------
+Version: 1.1.6.5 (RW) 	Date: 16-December-2009
+----------------------------------------------
+
+Description:
+- ACR38 (CCID) driver package for win98/ME, 2000, XP, 2003/2008, Vista and Windows 7 (x86 & x64).
+
+Changes:
+- Solved conflict with certain antivirus programs.
+- Improved sleepmode handling.
+- 1 driver package for all mentioned OS's.
+- ACS SPC Signed for Vista/Win7 x86 & x64.
+
+------------------------------------------
+Update: 1.1.6.4 (RW)	Date: 07-July-2009
+------------------------------------------
+
+- WHQL certified drivers signed by Microsoft for 2000, XP (x86 & x64), Vista (x86 & x64) and 
+  Windows 7 (x86 & x64)
+
+------------------------------------------
+Version: 1.1.6.4 (RW) 	Date: 15-June-2009
+------------------------------------------
+
+Description:
+- ACR38 (CCID) driver package for win98/ME, 2000, XP, 2003/2008, Vista and Windows 7 (x86 & x64).
+
+Changes:
+- Changes for improved support of highspeed SIM cards.
+- Further improvement in changes for Zetes to solve timing issues in ActiveCard cards.
+- 1 driver package for all mentioned OS's.
+- ACS SPC Signed for Vista/Win7 x86 & x64.
+
+
